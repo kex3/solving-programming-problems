@@ -24,7 +24,7 @@ I will be presenting this shortly, in the next section - to be precise.
 `2) Remove all cache`  
 If we remove all forms of cache, we won't have to invalidate it.
 
-`4) Use predefined naming of entities`
+`4) Use predefined naming of entities`  
 A class is prefixed by `c` and followed by a running number.  
 Thusly, the first class you create will be named `c2`, the second one `c4`, `c6`, `c8` and then so on to `cInfinity`.  
 Variables and functions will be referenced by `a` and `b` suffixed by numbers in the same way.  
