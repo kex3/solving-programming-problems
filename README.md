@@ -41,4 +41,6 @@ Imagine that! Never again!
 
 # closing words
 I believe this is the way forward to get rid of the 4 classic problems of computer science.  
-I'll be accepting donations shortly.
+We can all agree that there is no `silver bullet`, which is why I've elected to give this new paradigm the nickname `the Golden bullet`, because gold is better than silver, and a bullet is better than no bullet.  
+I'll be accepting donations shortly.  
+Also available for talking at conferences.
