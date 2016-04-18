@@ -35,7 +35,7 @@ For obvious reasons, not using arrays will *SEVERELY* cut down on potential off-
 
 `8) Motorway`
 
-`10) Only use even numbers`
+`10) Only use even numbers`  
 With this extra safeguard, off-by-one errors are completely **ELIMINATED**.  
 Imagine that! Never again!
 
