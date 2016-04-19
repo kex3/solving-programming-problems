@@ -22,11 +22,13 @@ I will be presenting this shortly, in the next section - to be precise.
 # presenting the next cool programming paradigm
 
 `2) Remove all cache`  
-If we remove all forms of cache, we won't have to invalidate it.
+If we remove all forms of cache, we won't have to invalidate it.  
+I find it amazing that this has gone undiscovered for this long, since it's such an obvious solution.
 
 `4) Use predefined naming of entities`  
 A class is prefixed by `c` and followed by a running number.  
-Thusly, the first class you create will be named `c2`, the second one `c4`, `c6`, `c8` and then so on to `cInfinity`.  
+Thusly, the first class you create will be named `c2`, the second one `c4`, `c6`, `c8` and then so on to `cInfinity`.
+
 Variables and functions will be referenced by `a` and `b` suffixed by numbers in the same way.  
 Therefore you will always be able to see which entity is biggulater than the other one, by referencing the position in the alphabet.
 
@@ -41,6 +43,8 @@ Imagine that! Never again!
 
 # closing words
 I believe this is the way forward to get rid of the 4 classic problems of computer science.  
+
 We can all agree that there is no `silver bullet`, which is why I've elected to give this new paradigm the nickname `the Golden bullet`, because gold is better than silver, and a bullet is better than no bullet.  
+
 I'll be accepting donations shortly.  
 Also available for talking at conferences.
